@@ -1,0 +1,15 @@
+{
+  "collection_name": "Kolekcja C",
+  "cards": [
+    {
+      "identifier": "C1",
+      "name": "Karta C1",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "C2",
+      "name": "Karta C2",
+      "rarity": "Rare"
+    }
+  ]
+}

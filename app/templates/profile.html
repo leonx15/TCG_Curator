@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block title %}Profil{% endblock %}
+{% block content %}
+<div class="row">
+    <div class="col-md-12">
+        <h2>Witaj, {{ user.username }}!</h2>
+        <p>Twoje kolekcje:</p>
+        {% if user.profile.collections %}
+            <ul>
+                {% for collection in user.profile.collections %}
+                    <li><a href="{{ url_for('main.view_collection', collection_id=collection.id) }}">{{ collection.name }}</a></li>
+                {% endfor %}
+            </ul>
+        {% else %}
+            <p>Nie masz jeszcze dodanych żadnych kolekcji.</p>
+        {% endif %}
+        <a href="{{ url_for('main.add_collection') }}" class="btn btn-primary">Dodaj kolekcję</a>
+    </div>
+</div>
+{% endblock %}

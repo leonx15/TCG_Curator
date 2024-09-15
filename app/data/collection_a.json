@@ -1,0 +1,15 @@
+{
+  "collection_name": "Kolekcja A",
+  "cards": [
+    {
+      "identifier": "A1",
+      "name": "Karta A1",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "A2",
+      "name": "Karta A2",
+      "rarity": "Rare"
+    }
+  ]
+}
