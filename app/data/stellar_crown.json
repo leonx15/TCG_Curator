@@ -1,0 +1,880 @@
+{
+  "collection_name": "Stellar Crown",
+  "cards": [
+    {
+      "identifier": "001",
+      "name": "Venusaur ex",
+      "rarity": "Commony"
+    },
+    {
+      "identifier": "002",
+      "name": "Ledyba",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "003",
+      "name": "Ledian",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "004",
+      "name": "Celebi",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "005",
+      "name": "Lileep",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "006",
+      "name": "Cradily",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "007",
+      "name": "Carnivine",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "008",
+      "name": "Mow Rotom",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "009",
+      "name": "Grubbin",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "010",
+      "name": "Gossifleur",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "011",
+      "name": "Eldegoss",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "012",
+      "name": "Applin",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "013",
+      "name": "Dipplin",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "014",
+      "name": "Hydrapple ex",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "015",
+      "name": "Nymble",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "016",
+      "name": "Lokix",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "017",
+      "name": "Toedscool",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "018",
+      "name": "Toedscruel",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "019",
+      "name": "Ponyta",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "020",
+      "name": "Rapidash",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "021",
+      "name": "Pansear",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "022",
+      "name": "Reshiram",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "023",
+      "name": "Salandit",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "024",
+      "name": "Salazzle",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "025",
+      "name": "Turtonator",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "026",
+      "name": "Scorbunny",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "027",
+      "name": "Raboot",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "028",
+      "name": "Cinderace ex",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "029",
+      "name": "Charcadet",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "030",
+      "name": "Blastoise ex",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "031",
+      "name": "Lapras",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "032",
+      "name": "Lapras ex",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "033",
+      "name": "Marill",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "034",
+      "name": "Azumarill",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "035",
+      "name": "Finneon",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "036",
+      "name": "Lumineon",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "037",
+      "name": "Tirtouga",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "038",
+      "name": "Carracosta",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "039",
+      "name": "Froakie",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "040",
+      "name": "Frogadier",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "041",
+      "name": "Greninja ex",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "042",
+      "name": "Crabominable",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "043",
+      "name": "Chewtle",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "044",
+      "name": "Drednaw",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "045",
+      "name": "Veluza",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "046",
+      "name": "Electabuzz",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "047",
+      "name": "Electivire",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "048",
+      "name": "Chinchou",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "049",
+      "name": "Lanturn",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "050",
+      "name": "Joltik",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "051",
+      "name": "Galvantula ex",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "052",
+      "name": "Charjabug",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "053",
+      "name": "Vikavolt",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "054",
+      "name": "Togedemaru",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "055",
+      "name": "Zeraora",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "056",
+      "name": "Pawmi",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "057",
+      "name": "Slowpoke",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "058",
+      "name": "Slowking",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "059",
+      "name": "Mewtwo",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "060",
+      "name": "Drifloon",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "061",
+      "name": "Drifblim",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "062",
+      "name": "Yamask",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "063",
+      "name": "Comfey",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "064",
+      "name": "Milcery",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "065",
+      "name": "Alcremie",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "066",
+      "name": "Fidough",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "067",
+      "name": "Dachsbun ex",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "068",
+      "name": "Flittle",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "069",
+      "name": "Espathra",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "070",
+      "name": "Greavard",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "071",
+      "name": "Iron Boulder",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "072",
+      "name": "Cubone",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "073",
+      "name": "Marowak",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "074",
+      "name": "Rhyhorn",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "075",
+      "name": "Rhydon",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "076",
+      "name": "Rhyperior",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "077",
+      "name": "Meditite",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "078",
+      "name": "Meditite",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "079",
+      "name": "Medicham",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "080",
+      "name": "Medicham ex",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "081",
+      "name": "Riolu",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "082",
+      "name": "Lucario ex",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "083",
+      "name": "Mienfoo",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "084",
+      "name": "Mienshao",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "085",
+      "name": "Pancham",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "086",
+      "name": "Diancie",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "087",
+      "name": "Crabrawler",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "088",
+      "name": "Falinks",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "089",
+      "name": "Garganacl ex",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "090",
+      "name": "Koraidon",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "091",
+      "name": "Gulpin",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "092",
+      "name": "Swalot",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "093",
+      "name": "Pangoro",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "094",
+      "name": "Impidimp",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "095",
+      "name": "Morgrem",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "096",
+      "name": "Grimmsnarl",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "097",
+      "name": "Bombirdier",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "098",
+      "name": "Jirachi",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "099",
+      "name": "Klink",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "100",
+      "name": "Klang",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "101",
+      "name": "Klinklang",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "102",
+      "name": "Meltan",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "103",
+      "name": "Meltan",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "104",
+      "name": "Melmetal",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "105",
+      "name": "Melmetal ex",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "106",
+      "name": "Duraludon",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "107",
+      "name": "Archaludon",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "108",
+      "name": "Varoom",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "109",
+      "name": "Revavroom",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "110",
+      "name": "Orthworm ex",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "111",
+      "name": "Raging Bolt",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "112",
+      "name": "Tauros",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "113",
+      "name": "Eevee",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "114",
+      "name": "Hoothoot",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "115",
+      "name": "Noctowl",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "116",
+      "name": "Glameow",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "117",
+      "name": "Purugly",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "118",
+      "name": "Fan Rotom",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "119",
+      "name": "Bouffalant",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "120",
+      "name": "Tornadus",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "121",
+      "name": "Fletchling",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "122",
+      "name": "Fletchinder",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "123",
+      "name": "Talonflame",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "124",
+      "name": "Wooloo",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "125",
+      "name": "Dubwool",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "126",
+      "name": "Lechonk",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "127",
+      "name": "Cyclizar",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "128",
+      "name": "Terapagos ex",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "129",
+      "name": "Antique Cover Fossil",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "130",
+      "name": "Antique Root Fossil",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "131",
+      "name": "Area Zero Underdepths",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "132",
+      "name": "Briar",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "133",
+      "name": "Crispin",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "134",
+      "name": "Deluxe Bomb",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "135",
+      "name": "Glass Trumpet",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "136",
+      "name": "Grand Tree",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "137",
+      "name": "Gravity Gemstone",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "138",
+      "name": "Kofu",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "139",
+      "name": "Lacey",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "140",
+      "name": "Occa Berry",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "141",
+      "name": "Payapa Berry",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "142",
+      "name": "Sparkling Crystal",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "143",
+      "name": "Bulbasaur",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "144",
+      "name": "Ledian",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "145",
+      "name": "Lileep",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "146",
+      "name": "Turtonator",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "147",
+      "name": "Raboot",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "148",
+      "name": "Squirtle",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "149",
+      "name": "Crabominable",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "150",
+      "name": "Joltik",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "151",
+      "name": "Zeraora",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "152",
+      "name": "Milcery",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "153",
+      "name": "Meditite",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "154",
+      "name": "Gulpin",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "155",
+      "name": "Archaludon",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "156",
+      "name": "Hydrapple ex",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "157",
+      "name": "Cinderace ex",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "158",
+      "name": "Lapras ex",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "159",
+      "name": "Galvantula ex",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "160",
+      "name": "Dachsbun ex",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "161",
+      "name": "Medicham ex",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "162",
+      "name": "Orthworm ex",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "163",
+      "name": "Briar",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "164",
+      "name": "Crispin",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "165",
+      "name": "Kofu",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "166",
+      "name": "Lacey",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "167",
+      "name": "Hydrapple ex",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "168",
+      "name": "Galvantula ex",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "169",
+      "name": "Dachsbun ex",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "170",
+      "name": "Terapagos ex",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "171",
+      "name": "Briar",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "172",
+      "name": "Lacey",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "173",
+      "name": "Terapagos ex",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "174",
+      "name": "Area Zero Underdepths",
+      "rarity": "Common"
+    },
+    {
+      "identifier": "175",
+      "name": "Bravery Charm",
+      "rarity": "Common"
+    }
+  ]
+}
