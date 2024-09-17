@@ -84,16 +84,13 @@ def init_collections():
                 print(f"Niekompletne dane karty w pliku {json_file}: {card_data}")
                 continue
 
-            existing_card = Card.query.filter_by(identifier=identifier).first()
-            if existing_card:
-                existing_card.name = name
-                existing_card.rarity = rarity
-            else:
-                card = Card(
-                    identifier=identifier,
-                    name=name,
-                    rarity=rarity,
-                    collection_id=collection.id
-                )
-                db.session.add(card)
+            # Since identifier is not unique, we cannot check for existing cards based on it
+            # We can check for existing cards based on a combination of all fields if needed
+            card = Card(
+                identifier=identifier,
+                name=name,
+                rarity=rarity,
+                collection_id=collection.id
+            )
+            db.session.add(card)
         db.session.commit()
